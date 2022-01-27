@@ -2,4 +2,4 @@
 
 # Music
 
-- (Nuclear)[https://nuclear.js.org/]
+- [https://nuclear.js.org/](Nuclear)
